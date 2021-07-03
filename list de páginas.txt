@@ -1,0 +1,11 @@
+index - Ok
+cadastro - Ok
+conta_criada - Ok
+login_email - Ok
+login_senha - Ok
+recuperar_email - Ok
+recuperar_senha - Ok
+dashboard - Ok
+cadastro_completo
+cadastro_cartao
+precos
